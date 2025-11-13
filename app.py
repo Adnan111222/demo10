@@ -1,4 +1,4 @@
-a= input ("enter number")
+a=int (input ("enter number"))
 if a % 2 ==0;
      print("it is an even number")
        else:
